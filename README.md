@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 💫 About Me:
 🔭 I'm a Java developer with a passion for building scalable and efficient applications.<br><br>  
 🤝 I’m always open to collaborating on backend development, Spring Boot projects, and Android applications.<br><br>  
 ❓ I’m currently improving my skills in Java Android development, working with MySQL, and diving deeper into Spring Boot.<br><br>  

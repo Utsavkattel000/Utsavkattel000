@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭 I'm currently working on building responsive and dynamic websites.<br><br>  
 🤝 I'm looking to collaborate on web development projects, especially those involving Java and Spring Boot.<br><br>  
 ❓ I'm looking for help with optimizing Java Android apps and integrating MySQL with backend systems.<br><br>  
 📚 I'm currently learning advanced Java frameworks, enhancing my skills in Spring Boot and Java Android development.<br><br>  

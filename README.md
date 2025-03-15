@@ -1,9 +1,12 @@
 # 💫 About Me:
-🤝 I'm looking to collaborate on web development projects, especially those involving Java and Spring Boot.<br><br>  
-❓ I'm looking for help with optimizing Java Android apps and integrating MySQL with backend systems.<br><br>  
-📚 I'm currently learning advanced Java frameworks, enhancing my skills in Spring Boot and Java Android development.<br><br>  
-💬 Ask me about Java, Spring Boot, MySQL, and Android development.<br><br>  
-🎉 Fun fact: I love solving complex coding challenges and turning ideas into working solutions!
+# 💫 About Me:
+🔭 I'm a Java developer with a passion for building scalable and efficient applications.<br><br>  
+🤝 I’m always open to collaborating on backend development, Spring Boot projects, and Android applications.<br><br>  
+❓ I’m currently improving my skills in Java Android development, working with MySQL, and diving deeper into Spring Boot.<br><br>  
+📚 I enjoy solving complex problems and optimizing system performance.<br><br>  
+💬 Feel free to ask me about Java, Spring Boot, Android app development, MySQL, and best practices in backend development.<br><br>  
+🎉 Fun fact: I love tackling challenging coding tasks and optimizing applications for performance and scalability!
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsav-kattel/)  

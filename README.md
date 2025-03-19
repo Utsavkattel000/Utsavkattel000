@@ -4,7 +4,7 @@
 ❓ I’m currently improving my skills in Java Android development, working with MySQL, and diving deeper into Spring Boot.<br><br>  
 📚 I enjoy solving complex problems and optimizing system performance.<br><br>  
 💬 Feel free to ask me about Java, Spring Boot, Android app development, MySQL, and best practices in backend development.<br><br>  
-🎉 Fun fact: I love tackling challenging coding tasks and optimizing applications for performance and scalability!
+
 
 
 ## 🌐 Socials:

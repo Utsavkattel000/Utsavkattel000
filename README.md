@@ -19,7 +19,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![XML](https://img.shields.io/badge/xml-%23FF8C00.svg?style=for-the-badge&logo=xml&logoColor=white)
-
+![](https://komarev.com/ghpvc/?username=utsavkattel000)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Utsavkattel000&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Utsavkattel000&theme=dark&hide_border=false)<br/>

@@ -1,29 +1,65 @@
-# 💫 About Me:
-🔭 I'm a Java developer with a passion for building scalable and efficient applications.<br><br>  
-🤝 I’m always open to collaborating on backend development, Spring Boot projects, and Android applications.<br><br>  
-❓ I’m currently improving my skills in Java Android development, working with MySQL, and diving deeper into Spring Boot.<br><br>  
-📚 I enjoy solving complex problems and optimizing system performance.<br><br>  
-💬 Feel free to ask me about Java, Spring Boot, Android app development, MySQL, and best practices in backend development.<br><br>  
+# Utsav Kattel
+**Associate Java Developer | Backend Specialist**
 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsav-kattel/)  
-[![Email](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=white)](mailto:utsavkattel00@gmail.com)  
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
-![Java Android](https://img.shields.io/badge/Android-%2300C853.svg?style=for-the-badge&logo=android&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![XML](https://img.shields.io/badge/xml-%23FF8C00.svg?style=for-the-badge&logo=xml&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Utsavkattel000&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Utsavkattel000&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Utsavkattel000&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Software Engineer focused on building scalable, real-time backend architectures and high-throughput financial integrations. Experienced in delivering production-ready code for high-impact systems, including massive government-scale projects.
 
 ---
-![](https://komarev.com/ghpvc/?username=utsavkattel000)
+
+### Technical Expertise
+
+**Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
+![Hibernate/JPA](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white)
+
+**Data & Messaging**
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Integrations**
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
+
+---
+
+### Key Technical Contributions
+
+#### Distributed Systems & Real-time Messaging
+* **Messaging Architecture:** Engineered a real-time messaging subsystem utilizing **STOMP over WebSockets** with **RabbitMQ** as the message broker for asynchronous communication.
+* **Notification Engine:** Integrated **Firebase Cloud Messaging (FCM)** for cross-platform push notifications and reliable message delivery.
+* [View Messaging & Notifications Showcase (Placeholder)](#)
+
+#### Financial Systems & API Orchestration
+* **Stripe Connect Integration:** Implemented complex multi-party payment flows and vendor onboarding using the official **Stripe SDK**, ensuring secure and compliant transaction handling.
+* **API Performance Optimization:** Integrated **Google Analytics Reporting API** with a custom database caching layer. This reduced dashboard load times by **multiple seconds** by eliminating redundant external API reloads.
+* [View Stripe & Analytics Integration Showcase (Placeholder)](#)
+
+#### Database Architecture & Query Optimization
+* **Query Performance:** Optimized high-latency data retrieval by implementing **Common Table Expressions (CTEs)** to replace deeply nested subqueries.
+* **Dynamic Querying:** Utilized the **JPA Criteria API** for type-safe, dynamic query generation, replacing fragile "is Null" or "Like" filter logic with robust predicates.
+* **Live System Monitoring:** Developed a library-integrated dashboard to report real-time server health metrics (CPU, RAM, Disk usage) directly to the administrative interface.
+
+---
+
+### Collaboration & Experience
+* **Production Systems:** Proven track record of deploying and maintaining code in live environments, including large-scale **Government of Nepal** digital initiatives.
+* **Agile Collaboration:** Actively collaborating within cross-functional teams to translate business requirements into efficient backend logic.
+
+---
+
+### GitHub Statistics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Utsavkattel000&show_icons=true&theme=dark" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsavkattel000&layout=compact&theme=dark" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsav-kattel/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:utsavkattel00@gmail.com)

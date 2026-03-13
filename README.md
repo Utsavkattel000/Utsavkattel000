@@ -31,12 +31,10 @@ Software Engineer focused on building scalable, real-time backend architectures 
 #### Distributed Systems & Real-time Messaging
 * **Messaging Architecture:** Engineered a real-time messaging subsystem utilizing **STOMP over WebSockets** with **RabbitMQ** as the message broker for asynchronous communication.
 * **Notification Engine:** Integrated **Firebase Cloud Messaging (FCM)** for cross-platform push notifications and reliable message delivery.
-* [View Messaging & Notifications Showcase (Placeholder)](#)
 
 #### Financial Systems & API Orchestration
 * **Stripe Connect Integration:** Implemented complex multi-party payment flows and vendor onboarding using the official **Stripe SDK**, ensuring secure and compliant transaction handling.
 * **API Performance Optimization:** Integrated **Google Analytics Reporting API** with a custom database caching layer. This reduced dashboard load times by **multiple seconds** by eliminating redundant external API reloads.
-* [View Stripe & Analytics Integration Showcase (Placeholder)](#)
 
 #### Database Architecture & Query Optimization
 * **Query Performance:** Optimized high-latency data retrieval by implementing **Common Table Expressions (CTEs)** to replace deeply nested subqueries.
